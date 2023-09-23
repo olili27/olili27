@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timothy Olili
-- 👀 I’m interested in learning, unlearning and relearning technologies that assemble me for backend development. 
-- 💞️ I’m looking to collaborate on any projects that are in line with my tech-stack or can introduce me to new challenges of similar-related technologies in the realm of web development.
+- 👀 I’m interested in learning, unlearning and relearning technologies that assemble me for fullstack-backend heavy web development. 
+- 💞️ I’m looking to collaborate on any projects that are in line with my tech-stack(Java(spring boot), JavaScrpt, HTML5, CSS) or can introduce me to new challenges of similar-related technologies in the realm of web development.
 - 📫 How to reach me -> 
 e-mail: timmolili27@gmail.com
 linkedin: https://www.linkedin.com/in/timothy-olili-2359b8176/
