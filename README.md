@@ -4,7 +4,6 @@
 - 📫 How to reach me -> 
 e-mail: timmolili27@gmail.com
 linkedin: https://www.linkedin.com/in/timothy-olili-2359b8176/
-twitter: https://twitter.com/Thy_Minimalist
 portfolio site: https://olili27-github-io.vercel.app/
 <!---
 olili27/olili27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
